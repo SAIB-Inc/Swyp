@@ -1,0 +1,21 @@
+{
+  "tokens": [
+    {
+      "policyId": "da3562fad43b7759f679970fb4e0ec07ab5bebe5c703043acda07a3c",
+      "assetName": "54656464794265617273436c756235343137",
+      "fingerprint": "490486641000c365e8e511901642f3b2a4a67f5e",
+      "assetId": "da3562fad43b7759f679970fb4e0ec07ab5bebe5c703043acda07a3c54656464794265617273436c756235343137",
+      "balance": "1"
+    },
+    {
+      "policyId": "c48cbb3d5e57ed56e276bc45f99ab39abe94e6cd7ac39fb402da47ad",
+      "assetName": "0014df105553444d",
+      "fingerprint": "5252d91ed653aa7a407eed336dca4d267023860a",
+      "assetId": "c48cbb3d5e57ed56e276bc45f99ab39abe94e6cd7ac39fb402da47ad0014df105553444d",
+      "balance": "155340000"
+    }
+  ],
+  "count": 2,
+  "pageNo": 1,
+  "limit": 20
+}
